@@ -1,0 +1,54 @@
+body {
+  font-family: 'Inter', sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: 'slnt' 0;
+}
+
+button {
+  background-color: #cdc9f6 !important;
+  border-radius: 25px !important;
+  border: 0 none !important;
+  color: #000 !important;
+}
+
+.mr-auto li {
+  margin-left: 45px;
+}
+
+.shop .card {
+  padding: 27px;
+}
+.support .card {
+  padding: 27px;
+}
+
+footer h5 {
+  font-weight: 800;
+}
+
+footer {
+  padding: 0 40px;
+  background-color: #9a94d7;
+  color: #fff;
+}
+footer a.text-muted {
+  color: #fff !important;
+}
+
+footer input[type='email'] {
+  background-color: transparent;
+  border-width: 0;
+  border-bottom: 1px solid #000;
+}
+
+.navbar {
+  border-bottom: 1px solid #000;
+  background-color: transparent !important;
+}
+
+.aboutApp {
+  font-size: 18px;
+  line-height: 28px;
+  opacity: 0.8;
+}
